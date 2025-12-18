@@ -1,1 +1,1 @@
-PassGen is a free passworg generator. have fun.
+PassGen is a free password generator. have fun.
